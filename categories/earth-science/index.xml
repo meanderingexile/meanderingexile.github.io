@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on meanderingexile</title>
-    <link>https://meanderingexile.github.io/post/</link>
-    <description>Recent content in Posts on meanderingexile</description>
+    <title>Earth Science on meanderingexile</title>
+    <link>https://meanderingexile.github.io/categories/earth-science/</link>
+    <description>Recent content in Earth Science on meanderingexile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://meanderingexile.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://meanderingexile.github.io/categories/earth-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amateur Volcanology</title>
       <link>https://meanderingexile.github.io/post/volcanology/</link>
       <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://meanderingexile.github.io/post/volcanology/</guid>
       <description>&lt;span class=&#34;newthought&#34;&gt;//two volcanoes, both alike in dignity (but not in violence)//lava-passata theory//the pacific rim//the big rip at&#xA;Þingvellir//making sense of the world//&lt;/span&gt;&#xA;&#xA;&lt;p&gt;In the last year, I&amp;rsquo;ve passed close to a couple of volcanoes, one of&#xA;which is known for exploding violently and killing people, and one of&#xA;which is not. I decided to try to understand a little bit about why.&#xA;&lt;label for=&#34;marginnote-1&#34; class=&#34;margin-toggle marginnote-ind&#34;&gt;&lt;/label&gt;&#xA;&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-1&#34; class=&#34;margin-toggle&#34;/&gt;&#xA;&lt;span class=&#34;marginnote&#34;&gt;&#xA;Epistemic status: iffy. Trying to be correct,&#xA;but not my area of expertise.&#xA;&lt;/span&gt;&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reframing Anxiety</title>
-      <link>https://meanderingexile.github.io/post/reframing/</link>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://meanderingexile.github.io/post/reframing/</guid>
-      <description>&lt;p&gt;I never thought of myself as an anxious person, but for a few years fear&#xA;and anxiety became a pretty big part of my life. An increasing number of&#xA;things became stressful, and I made an increasing number of decisions,&#xA;big and small, to avoid those stressors. It wasn&amp;rsquo;t a great time.&lt;/p&gt;&#xA;&lt;p&gt;There was a lot of stuff involved in digging out of that hole, but one&#xA;thing that helped a ton was a bit of fortune-cookie wisdom off of Twitter:&#xA;&amp;ldquo;sometimes fear is excitement in disguise&amp;rdquo;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
