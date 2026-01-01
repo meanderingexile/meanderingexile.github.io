@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on meanderingexile</title>
+    <link>http://localhost:1313/categories/software/</link>
+    <description>Recent content in Software on meanderingexile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life After Segfaults</title>
+      <link>http://localhost:1313/post/success_programming/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/success_programming/</guid>
+      <description>&lt;p&gt;Frequently, when I travel, I end up at some point on a week/poor internet&#xA;connection, and I spend a lot of time looking at the words &amp;ldquo;Hmm. We’re having&#xA;trouble finding that site.&amp;rdquo; As I sit there, I wonder: why am I seeing this?&#xA;More specifically, why is it up to me to manually hit the &amp;ldquo;refresh&amp;rdquo; button?&#xA;This feeling repeats, often with growing frustration, across apps and services&#xA;as downloads, sessions, and tasks fail and time-out.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

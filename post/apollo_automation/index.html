@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en-us"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<title>Apollo and Automation - meanderingexile</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description"
+    content="The Apollo astronauts and their relationship to their onboard computers as an early cyborg system. ">
+<link rel="canonical" href="http://localhost:1313/post/apollo_automation/" />
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/1.1.0/modern-normalize.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="preload" as="style"
+      href="https://fonts.googleapis.com/css?family=Noto+Serif+SC|Noto+Emoji&display=swap" />
+<link rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Noto+Serif+SC|Noto+Emoji&display=swap"
+      media="print" onload="this.media='all'" />
+<noscript>
+<link rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Noto+Serif+SC&display=swap" />
+</noscript>
+
+
+
+<link rel="stylesheet" href="/css/hugo-tufte.min.css">
+
+
+
+<link rel="stylesheet" href="/css/hugo-tufte-options.min.css">
+
+<link rel="stylesheet" href="/css/hugo-tufte-override.css">
+
+</head>
+<body>
+
+
+<article id="main">
+  <section>
+<h1 class="content-title">Apollo and Automation</h1></section>
+
+  
+
+  <section><p>Mindell&rsquo;s Digital Apollo is a great book, and not just for the space-obsessed.
+Spaceflight was intertwined with the development of cybernetics, modern control
+systems, and the digital computer. Re-reading it recently while recovering from
+an illness, I found certain themes especially resonant: specifically, the
+role of human beings in semi-automated systems, and the nature of human control.</p>
+<p>Spaceflight emerged from two, often dueling, engineering traditions: missile
+builders, who were used to building entirely automated systems, and aviation,
+which treated instruments as tools for the pilot, and at the time (the 1950s)
+was only begrudgingly admitting the role of autopilots as a way of enhancing the
+pilot&rsquo;s capabilities.</p>
+<p>These two groups would go back and forth about the appropriate role of humans in
+each system. The missileers, exemplified by everyone&rsquo;s favorite German hobby
+rocketry pioneer Von Braun, viewed the humans as little more than cargo, once
+even floating the idea that the astronauts should be sedated for the launch. The
+pilots, meanwhile, wanted to literally fly the rockets off the pad, only
+gradually ceding this ground when simulations (another cybernetic technology)
+proved that for Buzz Aldrin to steer a Saturn V into orbit with a stick was, by
+any reasonable standard of reliability, impossible.</p>
+<p>With the technology of the time, there were some valid arguments on
+both sides, especially when midcentury electronics and automation struggled with
+reliability issues. Fundamentally, though, the argument was philosophical, and
+indeed emotional: the astronauts wanted to fly because they were pilots, and
+flying was what they did.</p>
+<p>In the heroic saga of the Apollo missions, this struggle found its synthesis in
+the lunar landing phase. As the LEM approached the lunar surface, it had to
+execute a complex series of control operations and burns, mostly controlled by
+the (incredibly novel) Apollo flight computer. At the same time, as it got close
+to landing, it had to choose a landing site. This involved an unknown and
+somewhat unpredictable interaction with the lunar topography, much more
+complicated than the  mathematically elegant guidance problem of a booster
+arcing into orbit, a challenge for the sensing and signal processing techniques
+of the day.</p>
+<p>The result was a centaur system, where the pilots commanded the LEM&rsquo;s onboard
+computer in two ways: commands entered into a keypad through a noun-verb
+structure, and control inputs through the sticks that steered the reaction
+thrusters by digital control loop. While an early (and now somewhat endearing)
+argument that astronauts should approve each computer instruction before it was
+executed didn&rsquo;t come to pass, the astronauts did have the ability to both
+command the computer and provide approval at critical checkpoints before the
+automated procedures progressed. Instead of a silent black box taking control
+away, the computer became another instrument to master, and another way of
+expressing and demonstrating skill.</p>
+<p>This solved the problem: both the nominal problem of getting down on to the
+lunar surface, and the philosophical problem of making sure that it was done by
+an American astronaut-pilot with his hand on the controls. This gave us one of
+the central stories of heroic Apollo legend, when Neil Armstrong took control of
+the final stages of the Apollo 11 landing, guiding the Eagle over a field of
+boulders that satellite surveys had missed. Practiced skill, fine motor control,
+and nerves of steel carried the day.</p>
+<p>The technology only progresses in one direction, however. Fifty years later,
+terrestrial aircraft carrying passengers land under automated control all the
+time, with the pilots only providing nominal supervision. This comes with its
+own problems (erosion of skill, and as tragically seen in Air France Flight 447,
+hand-off issues when complex automated systems try to abruptly pass control back
+to humans). UAVs are everywhere, and pilots and engineers debate the shrinking
+role of human pilots. Eventually, fully automated aircraft seem inevitable; but
+&ldquo;one day&rdquo; can be a long way off, and in the mean time, aircraft have to fly.</p>
+<p>Now, as I&rsquo;m writing this, the same programmers that encroached on the pilots'
+sacred domain from the Draper Lab at MIT are now going through the same
+experience themselves, and the same arguments play out. We have automated
+systems that can replicate many of the programmer&rsquo;s traditional roles, though
+they often struggle when interacting with complexity and system boundaries. Some
+embrace their new roles as supervisors for these systems, enjoying the power
+they bring with them. Others raise objections about reliability and
+dependability: with some reason, but with an undercurrent of identity threat:
+many programmers want to program because they are programmers, and programming is
+what they do.</p>
+<p>It doesn&rsquo;t take a lot of foresight to predict that for a while, at least, we
+will see centaur systems, with humans driving clusters of agents, Claude Code or
+one of its successors. These systems will be somewhat automated, but not quite:
+a human will step in to approve or disapprove at critical steps, preventing
+disaster from a stray <code>rm</code> command. Sometimes they&rsquo;ll jump in directly with a
+series of surgical edits, tapping <code>vim</code> keys like Armstrong tapping his RCS
+thrusters, to guide things into place. The approaches that succeed will be
+effective, certainly, using humans to make up for the limitations of the
+automated systems, but they will also be the ones that provide an opportunity
+for skill, and virtuosity.</p>
+<p>Until such a time comes as they can be removed from the engineering process
+entirely, human beings will need to be there to guide things, and while they do,
+they will want to fly.</p>
+</section>
+  <section><footer class="page-footer">
+<hr />
+
+<div class="previous-post" style="display:inline-block;">
+  
+  <a class="link-reverse" href="http://localhost:1313/post/volcanology/?ref=footer">« Amateur Volcanology</a>
+  
+</div>
+
+<div class="next-post", style="display:inline-block;float:right;">
+  
+</div>
+
+<ul class="page-footer-menu">
+  
+  
+  <li><a href="https://twitter.com/meanderingexile">Twitter</a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="https://instance.url/@username">Mastodon</a></li>
+  
+
+  
+
+  
+  
+  
+</ul>
+
+
+<p>
+  Powered by <a href="https://gohugo.io">Hugo</a> and the
+  <a href="https://github.com/loikein/hugo-tufte">Tufte theme</a>.
+</p>
+
+
+
+
+</footer>
+</section>
+  <section><nav class="menu">
+    <ul>
+    
+        <li><a href="/"><i class='fas fa-home la-lg'></i>Home</a></li>
+    
+        <li><a href="/post"><i class='fas fa-book fa-lg'></i> Posts</a></li>
+    
+        <li><a href="/categories"><i class='fas fa-tags fa-lg'></i> Categories</a></li>
+    
+        <li><a href="/about"><i class='fas fa-info-circle  fa-lg'></i> About</a></li>
+    
+    </ul>
+</nav>
+</section>
+</article>
+
+
+
+
+
+</body>
+
+</html>

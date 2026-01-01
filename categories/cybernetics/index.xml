@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybernetics on meanderingexile</title>
+    <link>http://localhost:1313/categories/cybernetics/</link>
+    <description>Recent content in Cybernetics on meanderingexile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/cybernetics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apollo and Automation</title>
+      <link>http://localhost:1313/post/apollo_automation/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/apollo_automation/</guid>
+      <description>&lt;p&gt;Mindell&amp;rsquo;s Digital Apollo is a great book, and not just for the space-obsessed.&#xA;Spaceflight was intertwined with the development of cybernetics, modern control&#xA;systems, and the digital computer. Re-reading it recently while recovering from&#xA;a bout of illness, I found certain themes especially resonant: specifically, the&#xA;role of human beings in semi-automated systems, and the nature of human control.&lt;/p&gt;&#xA;&lt;p&gt;Spaceflight emerged from two, often dueling, engineering traditions: missile&#xA;builders, who were used to building entirely automated systems, and aviation,&#xA;which treated instruments as tools for the pilot, and at the time (the 1950s)&#xA;was only begrudgingly admitting the role of autopilots as a way of enhancing the&#xA;pilot&amp;rsquo;s capabilities.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
