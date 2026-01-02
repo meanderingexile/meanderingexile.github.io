@@ -6,21 +6,21 @@
     <description>Recent content in Posts on meanderingexile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apollo and Automation</title>
+      <link>http://localhost:1313/post/apollo_automation/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/apollo_automation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/lem_cockpit.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;span class=&#34;newthought&#34;&gt;//the beginning of digital flight control//vibe astronautics//the human wants to be in the loop//&lt;/span&gt;&#xA;&#xA;&lt;p&gt;Mindell&amp;rsquo;s Digital Apollo is a great book, and not just for the space-obsessed.&#xA;Spaceflight was intertwined with the development of cybernetics, modern control&#xA;systems, and the digital computer. Re-reading it recently while recovering from&#xA;an illness, I found certain themes especially resonant: specifically, the&#xA;role of human beings in semi-automated systems, and the nature of human control.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Amateur Volcanology</title>
       <link>http://localhost:1313/post/volcanology/</link>
       <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/volcanology/</guid>
       <description>&lt;span class=&#34;newthought&#34;&gt;//two volcanoes, both alike in dignity (but not in violence)//lava-passata theory//the pacific rim//the big rip at&#xA;Þingvellir//making sense of the world//&lt;/span&gt;&#xA;&#xA;&lt;p&gt;In the last year, I&amp;rsquo;ve passed close to a couple of volcanoes, one of&#xA;which is known for exploding violently and killing people, and one of&#xA;which is not. I decided to try to understand a little bit about why.&#xA;&lt;label for=&#34;marginnote-1&#34; class=&#34;margin-toggle marginnote-ind&#34;&gt;&lt;/label&gt;&#xA;&lt;input type=&#34;checkbox&#34; id=&#34;marginnote-1&#34; class=&#34;margin-toggle&#34;/&gt;&#xA;&lt;span class=&#34;marginnote&#34;&gt;&#xA;Epistemic status: iffy. Trying to be correct,&#xA;but not my area of expertise.&#xA;&lt;/span&gt;&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Life After Segfaults</title>
-      <link>http://localhost:1313/post/success_programming/</link>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/success_programming/</guid>
-      <description>&lt;p&gt;Frequently, when I travel, I end up at some point on a week/poor internet&#xA;connection, and I spend a lot of time looking at the words &amp;ldquo;Hmm. We’re having&#xA;trouble finding that site.&amp;rdquo; As I sit there, I wonder: why am I seeing this?&#xA;More specifically, why is it up to me to manually hit the &amp;ldquo;refresh&amp;rdquo; button?&#xA;This feeling repeats, often with growing frustration, across apps and services&#xA;as downloads, sessions, and tasks fail and time-out.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reframing Anxiety</title>
