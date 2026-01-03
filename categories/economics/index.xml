@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economics on meanderingexile</title>
+    <link>http://localhost:1313/categories/economics/</link>
+    <description>Recent content in Economics on meanderingexile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/economics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The World For Sale</title>
+      <link>http://localhost:1313/post/world_for_sale/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/world_for_sale/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/refinery.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;span class=&#34;newthought&#34;&gt;//Shipping and washbucklers//The Good Old Days//Opportunity in complexity//&lt;/span&gt;&#xA;&#xA;&lt;p&gt;I recently read The World For Sale, an investigation into commodities trading in&#xA;the 20th century. While the whole book is a good read, the early chapters in&#xA;particular, which deal with the swashbuckling post-WWII days, where traders made&#xA;fortunes with chutzpah and instinct.&lt;/p&gt;&#xA;&lt;p&gt;I found it interesting to reflect a little on what factors made this first big&#xA;boom of commodities trading possible: transport, communication, and opportunity.&#xA;The most obvious one, and Farch and Bias explicitly highlight, is networks of&#xA;global transport. Shipping of bulk commodities goes back to antiquity, but only&#xA;because truly possible at scale in the modern era.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
