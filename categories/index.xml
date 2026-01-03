@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on meanderingexile</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://meanderingexile.github.io/categories/</link>
     <description>Recent content in Categories on meanderingexile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://meanderingexile.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Economics</title>
-      <link>http://localhost:1313/categories/economics/</link>
+      <link>https://meanderingexile.github.io/categories/economics/</link>
       <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/economics/</guid>
+      <guid>https://meanderingexile.github.io/categories/economics/</guid>
       <description></description>
     </item>
     <item>
       <title>Military</title>
-      <link>http://localhost:1313/categories/military/</link>
+      <link>https://meanderingexile.github.io/categories/military/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/military/</guid>
+      <guid>https://meanderingexile.github.io/categories/military/</guid>
       <description></description>
     </item>
     <item>
       <title>Cybernetics</title>
-      <link>http://localhost:1313/categories/cybernetics/</link>
+      <link>https://meanderingexile.github.io/categories/cybernetics/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/cybernetics/</guid>
+      <guid>https://meanderingexile.github.io/categories/cybernetics/</guid>
       <description></description>
     </item>
     <item>
       <title>Earth Science</title>
-      <link>http://localhost:1313/categories/earth-science/</link>
+      <link>https://meanderingexile.github.io/categories/earth-science/</link>
       <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/earth-science/</guid>
+      <guid>https://meanderingexile.github.io/categories/earth-science/</guid>
       <description></description>
     </item>
     <item>
       <title>Performance</title>
-      <link>http://localhost:1313/categories/performance/</link>
+      <link>https://meanderingexile.github.io/categories/performance/</link>
       <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/performance/</guid>
+      <guid>https://meanderingexile.github.io/categories/performance/</guid>
       <description></description>
     </item>
   </channel>
